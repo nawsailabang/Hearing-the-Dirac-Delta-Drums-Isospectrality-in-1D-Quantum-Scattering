@@ -8,5 +8,5 @@ Save many figures from computations.py and manually put the parameters in "__mai
 The order of the parameters is shown as a comment.
 For now, the default parameters are set to be what I used in the paper.
 
-I added a interactive tool to play around and get intuition. 
+I added an interactive tool to play around and get intuition. 
 It doesn't work half of the time. I don't know why:) 
